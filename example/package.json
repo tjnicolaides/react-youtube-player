@@ -8,6 +8,6 @@
   "dependencies": {
     "react": "^0.14.0-rc1",
     "react-dom": "^0.14.0-rc1",
-    "react-youtube-player": "^0.0.0"
+    "react-youtube-player": "^0.3.3"
   }
 }
